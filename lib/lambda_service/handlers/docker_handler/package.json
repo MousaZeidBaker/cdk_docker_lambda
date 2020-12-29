@@ -1,0 +1,14 @@
+{
+  "name": "docker_handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "author": "Mousa Zeid Baker",
+  "devDependencies": {
+    "typescript": "~3.9.7"
+  }
+}
